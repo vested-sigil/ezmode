@@ -1,0 +1,4 @@
+steps:
+ name:
+ run: echo $PATH
+ shell: bash
