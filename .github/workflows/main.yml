@@ -1,4 +1,4 @@
 steps:
- name:
+ name:/ezmode.sh
  run: echo $PATH
  shell: bash
